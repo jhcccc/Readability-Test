@@ -1,10 +1,12 @@
 # Article Extractor
 
 Extract the title, author, body of a news article from a webpage. (e.g. https://www.nytimes.com/2019/04/01/business/british-business-brexit.html)
+
 🌟 supports dynamically-loaded webpage
+
 🌟 easy deployment with Docker
 
-This was produced as a GSoC project of the [mediacloud project](https://mediacloud.org/). 
+This will be produced as a GSoC project of the [mediacloud project](https://mediacloud.org/). 
 
 ## Installation
 
