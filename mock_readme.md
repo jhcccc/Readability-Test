@@ -1,5 +1,3 @@
-# Mock Readme
-
 # Article Extractor
 
 Extract the title, author, body of a news article from a webpage. (e.g. https://www.nytimes.com/2019/04/01/business/british-business-brexit.html)
@@ -18,7 +16,7 @@ This was produced as a GSoC project of the [mediacloud project](https://mediaclo
 This creates an HTTP server. 
 
 **Request Specification**
- HTTP POST with JSON
+HTTP POST with JSON
  
 
     {
@@ -49,9 +47,8 @@ This creates an HTTP server.
 
 
  
- **Response** **Specification**
- JSON
- 
+ **Response Specification**
+Format: JSON
 
     {
       "status": 200, // status code
